@@ -1,0 +1,1 @@
+from .torchvision_datasets import CIFAR10, CIFAR100
